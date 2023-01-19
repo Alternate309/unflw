@@ -1,0 +1,3 @@
+requests
+InstagramAPI
+urllib3
